@@ -8,5 +8,6 @@ export const Footer = memo(() => {
                     <p className='copyright-text font-rubik fw-4 ls-1'>©2024 CopyRight Example. All rights reserved.</p>
                 </div>
             </div>
-        </footer>)
+        </footer>
+    )
 });
